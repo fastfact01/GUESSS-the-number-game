@@ -1,4 +1,4 @@
-import random
+import random#importing random
 randNumber = random.randint(1, 100)
 userGuess = None
 guesses = 0
